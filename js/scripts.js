@@ -6,4 +6,5 @@ if (value > 0) {
 } else if (value < 0) {
     document.write('Wynik ujemny');
 }
+/* test comment */
 alert(value);
