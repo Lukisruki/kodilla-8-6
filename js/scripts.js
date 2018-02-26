@@ -1,5 +1,5 @@
-var a = 10,
-    b = 3,
+var a = 20,
+    b = 20,
     value = (a * a) - (2 * a * b) - (b * b);
 if (value > 0) {
     document.write('Wynik dodatni');
