@@ -11,3 +11,4 @@ if (value > 0) {
     document.write('To nie jest liczba lol');
 }
 console.log(value);
+
